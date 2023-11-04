@@ -1,0 +1,28 @@
+/* styleabout.css */
+
+body {
+    font-family: 'Your Stylish Font', sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.About-Me {
+    background-color: #f8f8f8;
+    border-radius: 20px; /* Increased border radius for a softer look */
+    padding: 30px; /* Increased padding */
+    max-width: 800px; /* Increased maximum width */
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2); /* Increased box shadow */
+    text-align: center;
+}
+
+.About-Me p {
+    font-size: 45px; /* Increased the font size */
+    color: #333;
+    line-height: 1.6;
+    font-weight: bold; /* Added font weight for emphasis */
+    font-family: 'georgia', cursive; /* Specify your stylish font here */
+}
+
